@@ -45,6 +45,8 @@ Depsite these probems we were able to overcome them to successfully create and l
 ## Usage
 View the deployed application at https://josephdaw.github.io/instant-crypto
 
+*NOTE: the subscription for the News API expires on 31 Oct 2021. Unfortunately, searches after the aforementioned date will not return news data.*
+
 The user opens up the application and is presented with a default cryptocurrency (Bitcoin) and is presented with an array of data. The data presented is; current price (presented in AUD), % price change for the past 24hours (if negative change tile will be red, if positive tile will be green), all time high price and finally the 24 hour high and low price. 
 
 ![default](assets/images/default.png)
