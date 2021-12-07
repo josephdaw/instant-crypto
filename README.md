@@ -23,7 +23,7 @@ The project had to include the following:
 - Be interactive (i.e accept and respond to user input)
 - Use at least two Server-side API's
 - Does not use alerts, confirms or prompts
-- Use client-side storage to store persisent data 
+- Use client-side storage to store persistent data 
 - Be responsive 
 - Have a polished UI 
 - Be deployed to GitHub Pages 
@@ -32,15 +32,15 @@ The project had to include the following:
 
 Our motivation was to make an application that highlighted all the skills and knowledge we have learnt so far in our web-development journey. 
 
-We decided to build our project around 2 seperate elements that logically blend well together, but in the real world do not appear to be common. We paired cryptocurrency data with recent and relevant news articles related to a specific cryptocurrency. This would allow a user to have a more streamlined experience and stay in one place, rather than checking the value of their currency and then having to open a new application to find out why the value has changed or increased. 
+We decided to build our project around 2 separate elements that logically blend well together, but in the real world do not appear to be common. We paired cryptocurrency data with recent and relevant news articles related to a specific cryptocurrency. This would allow a user to have a more streamlined experience and stay in one place, rather than checking the value of their currency and then having to open a new application to find out why the value has changed or increased. 
 
 There were a number of problems that had to be resolved in order to successfully launch the web-application; **InstantCrypto**. 
-1) Finding the correct server-side API's that would allow us to extract the neccessary data to use in our application.
-2) Understanding and implementing git branching and merging while working in a team enviroment. 
+1) Finding the correct server-side API's that would allow us to extract the necessary data to use in our application.
+2) Understanding and implementing git branching and merging while working in a team environment. 
 3) Ensuring that all members of the project understood the desired outcome and were able to efficiently work towards the outcome. 
 4) Finding a CSS framework that was not Bootstrap. 
 
-Depsite these probems we were able to overcome them to successfully create and launch our application. In doing so we learnt many skills that will help us to further develop as web developers. A standout learning outcome was when using serve-side APIs it is important to have a firm understanding of it's documentation. This is important to understand as it highlights what is included as well with the API as well as limitations, for example; how many API calls are included and if you exceed these calls what happens. Another important lesson was how to successfully use Git branching / merging and why it is important as well as how to resolve any conflicts that can occur.
+Despite these problems we were able to overcome them to successfully create and launch our application. In doing so we learnt many skills that will help us to further develop as web developers. A standout learning outcome was when using serve-side APIs it is important to have a firm understanding of it's documentation. This is important to understand as it highlights what is included as well with the API as well as limitations, for example; how many API calls are included and if you exceed these calls what happens. Another important lesson was how to successfully use Git branching / merging and why it is important as well as how to resolve any conflicts that can occur.
 
 ## Usage
 View the deployed application at https://josephdaw.github.io/instant-crypto
@@ -71,7 +71,7 @@ If the user refreshes the landing page, the most recent search is stored in loca
 
 ![local](assets/images/local.png)
 
-If the user clicks on the desired news article a new landing page window opens and they are taken to the new article. Note: InstantCrpyto landing page does not close. 
+If the user clicks on the desired news article a new landing page window opens and they are taken to the new article. Note: InstantCrypto landing page does not close. 
 
 ![window](assets/images/window.png)
 
@@ -92,7 +92,7 @@ The collaborators for this project were:
 - Michael West - https://github.com/mjhwest
 - Gurtej Thandi - https://github.com/gurtej154
 
-Crytocurrency data was collected using:
+Cryptocurrency data was collected using:
 https://www.coingecko.com/en/api
 
 News article data was collected using: 
